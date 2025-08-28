@@ -33,7 +33,7 @@ class MyApp(App):
         #een lijn
         #een lijn
         self.opponent_map = {
-            'X': (3, 7),
+            'X': (4, 7),
             'Y': (18, 10),
         }
 
