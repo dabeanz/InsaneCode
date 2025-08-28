@@ -22,6 +22,16 @@ class MyApp(App):
         #een lijn
         #een lijn
         #een lijn
+        #een lijn
+        #een lijn
+        #een lijn
+        #een lijn
+        #een lijn
+        #een lijn
+        #een lijn
+        #een lijn
+        #een lijn
+        #een lijn
         self.opponent_map = {
             'X': (3, 7),
             'Y': (18, 10),
