@@ -252,7 +252,8 @@ class MyApp(App):
                                 dmg.append(damage)
 
 
-        self.output_label.text = f"{ARcharge}\n{FinalCharge}\n{Saves}\n{c}\n{dmg}\n{ARnocharge}\n{Finalnocharge}\n{damage}"
+        #self.output_label.text = f"{ARcharge}\n{FinalCharge}\n{Saves}\n{c}\n{dmg}\n{ARnocharge}\n{Finalnocharge}\n{damage}"
+        self.output_label.text = f"{damage}"
         
 if __name__ == "__main__":
     MyApp().run()
