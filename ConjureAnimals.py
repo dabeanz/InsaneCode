@@ -35,7 +35,7 @@ class MyApp(App):
         self.opponent_map = {
             #'name enemy':(AC, strenght save mod)
             'A': (69, 7), 
-            'B': (18, 10), 
+            'B': (18, jj), 
         }
 
         self.spinner1 = self._make_spinner('Welke tegenstander', self.opponent_map.keys())
