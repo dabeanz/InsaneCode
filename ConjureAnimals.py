@@ -33,7 +33,7 @@ class MyApp(App):
         #een lijn
         #een lijn
         self.opponent_map = {
-            'A': (4, 7),
+            'A': (7, 7),
             'B': (18, 10), #AC, strength save mod
         }
 
